@@ -22,7 +22,7 @@ This code is tested on Ubuntu 18.04 and requires an NVIDIA GPU (we use an RTX 30
 
 To setup the dependencies, create and activate the conda environment.
 ```
-conda create env -f env.yaml
+conda env create -f env.yaml
 conda activate batmobility_ae
 ```
 
